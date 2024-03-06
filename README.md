@@ -1,3 +1,8 @@
+---
+marp : true
+---
+
+
 <h1> Inquilinos de la Batcueva 🦇</h1>
 <hr>
 |Nombre superheroe| Identidad secreta| Imagen |
